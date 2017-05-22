@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/new/icon">
+        <file>img/folder-house-icon.png</file>
+        <file>img/network_256px_542507_easyicon.net.png</file>
+    </qresource>
+</RCC>
